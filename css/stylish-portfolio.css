@@ -164,8 +164,9 @@ hr.small {
 }
 
 #header-img {
+    position: inherit;
     background: url(../img/picture.png) no-repeat left scroll;
-    background-size: cover;
+    height: 100%;
 }
 
 /* About */
