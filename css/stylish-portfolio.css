@@ -164,8 +164,8 @@ hr.small {
 }
 
 #header-img {
-    background: url(../img/picture.png) no-repeat left center scroll;
-    background-size: 100%;
+    background: url(../img/picture.png) no-repeat left scroll;
+    background-size: cover;
 }
 
 /* About */
