@@ -163,11 +163,6 @@ hr.small {
     -o-background-size: cover;
 }
 
-.header img {
-    position: inherit;
-    height: 100%;
-}
-
 /* About */
 
 .about {
