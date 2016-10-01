@@ -163,9 +163,8 @@ hr.small {
     -o-background-size: cover;
 }
 
-#header-img {
+.header img {
     position: inherit;
-    background: url(../img/picture.png) no-repeat left scroll;
     height: 100%;
 }
 
