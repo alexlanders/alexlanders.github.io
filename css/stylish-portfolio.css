@@ -163,6 +163,10 @@ hr.small {
     -o-background-size: cover;
 }
 
+#header-img {
+    height: 100%;
+}
+
 /* About */
 
 .about {
