@@ -174,6 +174,10 @@ hr.small {
     background-size: cover;
 }
 
+#clip-me {
+    clip: rect(10px, 0px, 20px, 0px);
+}
+
 /* About */
 
 .about {
