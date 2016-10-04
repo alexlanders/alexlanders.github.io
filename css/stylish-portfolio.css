@@ -176,7 +176,7 @@ hr.small {
 
 #clip-me {
     width: 250px;
-    clip-path: circle(120px at center);
+    clip-path: circle(125px at center);
 }
 
 /* About */
