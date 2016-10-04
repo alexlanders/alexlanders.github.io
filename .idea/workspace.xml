@@ -26,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="153" column="238" selection-start-line="153" selection-start-column="238" selection-end-line="153" selection-end-column="238" />
+            <state relative-caret-position="467">
+              <caret line="165" column="107" selection-start-line="165" selection-start-column="107" selection-end-line="165" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -259,10 +259,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="153" column="238" selection-start-line="153" selection-start-column="238" selection-end-line="153" selection-end-column="238" />
+        <state relative-caret-position="467">
+          <caret line="165" column="107" selection-start-line="165" selection-start-column="107" selection-end-line="165" selection-end-column="107" />
           <folding />
         </state>
       </provider>
