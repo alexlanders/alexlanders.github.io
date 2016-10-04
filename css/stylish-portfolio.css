@@ -175,7 +175,8 @@ hr.small {
 }
 
 #clip-me {
-    clip: rect(20px, 0px, 30px, 0px);
+    width: 250px;
+    clip-path: circle(250px at center);
 }
 
 /* About */
