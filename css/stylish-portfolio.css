@@ -158,7 +158,7 @@ hr.small {
     width: 100%;
     height: 100%;
     z-index: 1;
-    background: url(../img/guitar.jpg) no-repeat center center scroll;
+    background: url(../img/codescreen.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -170,7 +170,7 @@ hr.small {
     height: 100%;
     z-index: 2;
     position: relative;
-    background: url(../img/picture.png) no-repeat center center scroll;
+    background: url(../img/guitar.jpg) no-repeat center center scroll;
     background-size: cover;
 }
 
